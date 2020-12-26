@@ -7,3 +7,4 @@ else
   echo "site does not exist\nsite test fails\n"
   exit 1
 fi
+
